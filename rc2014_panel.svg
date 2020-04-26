@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7073893"
-     inkscape:cx="374.17323"
+     inkscape:cx="368.89372"
      inkscape:cy="241.88976"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,5 +85,178 @@
        cx="194"
        id="ellipse134"
        style="fill:none;stroke:#ff0000;stroke-width:0.25903833" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="digital-io">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       id="rect198"
+       width="96.077484"
+       height="59.506054"
+       x="17.820824"
+       y="20.30024" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="path200"
+       cx="86.902863"
+       cy="36.063286"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="36.063286"
+       cx="78.766914"
+       id="circle202"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle204"
+       cx="70.630966"
+       cy="36.063286"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="36.063286"
+       cx="62.495022"
+       id="circle206"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle208"
+       cx="54.359081"
+       cy="36.063286"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="36.063286"
+       cx="46.223137"
+       id="circle210"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle212"
+       cx="38.087189"
+       cy="36.063286"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="36.063286"
+       cx="29.951244"
+       id="circle214"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle216"
+       cx="95.038803"
+       cy="36.063286"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="64.109138"
+       cx="86.902863"
+       id="circle236"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle238"
+       cx="78.766914"
+       cy="64.109138"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="64.109138"
+       cx="70.630966"
+       id="circle240"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle242"
+       cx="62.495022"
+       cy="64.109138"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="64.109138"
+       cx="54.359081"
+       id="circle244"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.22998703"
+       id="circle246"
+       cx="46.223137"
+       cy="64.109138"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="64.109138"
+       cx="38.087189"
+       id="circle248"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.22998703"
+       id="circle250"
+       cx="29.951244"
+       cy="64.109138"
+       r="2.3850064" />
+    <circle
+       r="2.3850064"
+       cy="64.109138"
+       cx="95.038803"
+       id="circle252"
+       style="fill:none;stroke:#000000;stroke-width:0.22998703" />
+    <ellipse
+       cy="64.109138"
+       cx="29.951244"
+       id="circle254"
+       style="fill:none;stroke:#00ff00;stroke-width:0.36797923"
+       rx="3.8160102"
+       ry="3.8160105" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="labels">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       id="rect270"
+       width="42.460049"
+       height="83.215492"
+       x="143.18645"
+       y="40.290554" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot272"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:tb-rl;text-anchor:start"><rect
+           id="rect276"
+           width="124.16618"
+           height="279.95959"
+           x="558.7478"
+           y="172.7784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:tb-rl;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara294">RC2014</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="power">
+    <g
+       id="g267"
+       transform="translate(21.539952,-16.736078)">
+      <circle
+         r="12.5"
+         cy="38.973362"
+         cx="140.70703"
+         id="path261"
+         style="fill:none;stroke:#00ff00;stroke-width:0.26458332" />
+      <circle
+         r="9.5"
+         cy="38.973362"
+         cx="140.70703"
+         id="path263"
+         style="fill:none;stroke:#ff0000;stroke-width:0.26458332" />
+    </g>
   </g>
 </svg>
